@@ -309,6 +309,272 @@ Maison :
     ```
   </details>
 
+- Centre
+
+  <details>
+  <summary>Orléans </summary>
+
+    ```
+    La maison d'Orléans
+    Compagnons du Devoir 
+    22, place Louis XI
+    45000 Orléans
+    ```
+  </details>
+
+  <details>
+  <summary>Bourges </summary>
+
+    ```
+    La maison de Bourges
+    F.J.T Tivoli
+    3, rue de Moulon 
+    18000 Bourges
+    ```
+  </details>
+
+  <details>
+  <summary>Tours Littré </summary>
+
+    ```
+    La maison de Tours centre (Tours Littré)
+    Compagnons du Devoir 
+    8, rue Littré
+    37000 Tours
+    ```
+  </details>
+
+  <details>
+  <summary>Tours Nord </summary>
+
+    ```
+    La maison de Tours Nord / Siège régional
+    Compagnons du Devoir
+    25, rue de Franche-Comté
+    37100 Tours
+    ```
+  </details>
+
+- Bourgogne
+
+  <details>
+  <summary>Besançon </summary>
+
+    ```
+    La maison de Besançon
+    Compagnons du Devoir
+    25, rue Jean Wyrsch
+    25000 Besançon
+    ```
+  </details>
+
+  <details>
+  <summary>Chalon-sur-saône </summary>
+
+    ```
+    La maison de Chalon-sur-saône
+    Compagnons du Devoir
+    67 A rue du Général-Giraud
+    71100 Chalon-sur-Saône
+    ```
+  </details>
+
+  <details>
+  <summary>Dijon  </summary>
+
+    ```
+    La maison de Dijon / Siège régional
+    Compagnons du Devoir
+    1, rue Jean Mazen
+    21000 Dijon
+    ```
+  </details>
+
+  <details>
+  <summary>Auxerre  </summary>
+
+    ```
+    La maison d’Auxerre
+    Compagnons du Devoir 
+    6, rue Saint-Pélerin
+    89000 Auxerre
+    ```
+  </details>
+
+- Auvergne / Rhone-alpes
+  <details>
+  <summary>Lyon Nérard  </summary>
+
+    ```
+    La maison de Lyon Nérard
+    Compagnons du Devoir 
+    9 Rue Nerard - Bp 407
+    69338 Lyon Cedex 09
+    ```
+  </details>
+
+  <details>
+  <summary>Lyon Sidoine  </summary>
+
+    ```
+    La maison de Lyon Sidoine / Siège régional
+    Compagnons du Devoir
+    53, av. Sidoine Apollinaire
+    69009 Lyon Cedex 09
+    ```
+  </details>
+
+  <details>
+  <summary>Saint-Egreve  </summary>
+
+    ```
+    La maison de Saint-Egreve
+    Les Compagnons du Devoir 
+    1, rue Champaviotte
+    38120 Saint-Egreve
+    ```
+  </details>
+
+  <details>
+  <summary>Saint-Etienne  </summary>
+
+    ```
+    La maison de Saint-Etienne
+    Les Compagnons du Devoir 
+    34, rue Raoul Follereau
+    42350 La Talaudiere
+    ```
+  </details>
+
+  <details>
+  <summary>Villefontaine  </summary>
+
+    ```
+    La maison de Villefontaine
+    Compagnons du Devoir 
+    90 Boulevard de Villefontaine
+    38090 Villefontaine
+    ```
+  </details>
+
+  <details>
+  <summary>Annecy  </summary>
+
+    ```
+    La maison d’Annecy
+    Compagnons du Devoir 
+    La Roseraie
+    74370 Villaz
+    ```
+  </details>
+
+- Occitanie
+
+  <details>
+  <summary>Baillargues  </summary>
+
+    ```
+    La maison de Baillargues
+    Compagnons du Devoir 
+    1, avenue des Compagnons du Devoir
+    34670 Baillargues
+    ```
+  </details>
+
+  <details>
+  <summary>Colomiers   </summary>
+
+    ```
+    La maison de Colomiers / Siège régional
+    Compagnons du Devoir
+    5, rue Hyacinthe Dubreuil
+    31770 Colomiers
+    ```
+  </details>
+
+  <details>
+  <summary>Labruguière   </summary>
+
+    ```
+    La maison de Labruguière
+    Compagnons du Devoir
+    5, avenue Robert Schuman
+    81290 Labruguière
+    ```
+  </details>
+
+  <details>
+  <summary>Nîmes   </summary>
+
+    ```
+    La maison de Nîmes / Siège régional
+    Compagnons du Devoir
+    3, chemin du Compagnon
+    30900 Nîmes
+    ```
+  </details>
+
+  <details>
+  <summary>Rodez   </summary>
+
+    ```
+    La maison de Rodez
+    Compagnons du Devoir 
+    6, impasse Cambon
+    12000 Rodez
+    ```
+  </details>
+
+  <details>
+  <summary>Saint-Girons   </summary>
+
+    ```
+    La maison de Saint-Girons
+    Compagnons du Devoir
+    28, avenue René Plaisant
+    09200 Saint-Girons
+    ```
+  </details>
+
+  <details>
+  <summary>Toulouse   </summary>
+
+    ```
+    La maison de Toulouse
+    Compagnons du Devoir 
+    28, rue des Pyrénées
+    31400 Toulouse
+    ```
+  </details>
+
+
+  <details>
+  <summary>Albi   </summary>
+
+    ```
+    La maison d’Albi
+    Compagnons du Devoir
+    2-4-6, rue du Maréchal Lyautey
+    81000 Albi
+    ```
+  </details>
+
+  <details>
+  <summary>Eauze   </summary>
+
+    ```
+    La maison d’Eauze
+    Compagnons du Devoir
+    Lieu-dit Prat Lacassagne
+    Route de Castelnau
+    32800 Eauze
+    ```
+  </details>
+
+
+
+
+
 
 
 
