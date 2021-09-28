@@ -88,7 +88,10 @@ Maison :
     ```
   </details>
 
-    <details>
+    
+
+- Pays de la Loire
+  <details>
   <summary>Nantes</summary>
 
     ```
@@ -98,7 +101,7 @@ Maison :
     44000 Nantes
     ```
   </details>
-- Pays de la Loire
+  <details>
   <summary>Saumur</summary>
 
     ```
@@ -108,6 +111,7 @@ Maison :
     49400 Saumur 
     ```
   </details>
+  <details>
   <summary>Le Mans</summary>
 
     ```
@@ -118,7 +122,7 @@ Maison :
     ```
   </details>
 
-
+  <details>
   <summary>Angers Copernic</summary>
 
     ```
@@ -128,7 +132,7 @@ Maison :
     49100 Angers
     ```
   </details>
-
+  <details>
   <summary>Angers La Baumette</summary>
 
     ```
@@ -140,7 +144,7 @@ Maison :
   </details>
 
 - Bretagne
-
+  <details>
   <summary>Brest</summary>
 
     ```
@@ -150,7 +154,7 @@ Maison :
     29200 Brest
     ```
   </details>
-
+  <details>
   <summary>Rennes </summary>
 
     ```
@@ -160,7 +164,7 @@ Maison :
     35000 Rennes
     ```
   </details>
-
+  <details>
   <summary>Saint-Brieuc</summary>
 
     ```
@@ -172,7 +176,7 @@ Maison :
   </details>
 
 - Normandie
-
+  <details>
   <summary>Caen</summary>
 
     ```
@@ -183,7 +187,7 @@ Maison :
     ```
   </details>
 
-
+  <details>
   <summary>Rouen </summary>
 
     ```
@@ -196,6 +200,7 @@ Maison :
   </details>
 
 - Nord-pas-de-calais
+  <details>
   <summary>Lille </summary>
 
     ```
@@ -207,6 +212,7 @@ Maison :
   </details>
 
 - Ile-de-france
+  <details>
   <summary>Champs-sur-Marne </summary>
 
     ```
@@ -216,7 +222,7 @@ Maison :
     77420 Champs-sur-Marne
     ```
   </details>
-
+  <details>
   <summary>Pantin </summary>
 
     ```
@@ -226,7 +232,7 @@ Maison :
     93500 Pantin  
     ```
   </details>
-
+  <details>
   <summary>Paris </summary>
 
     ```
@@ -238,7 +244,7 @@ Maison :
   </details>
 
 - Grand-Est
-
+  <details>
   <summary>Colmar </summary>
 
     ```
@@ -247,7 +253,7 @@ Maison :
     68000 Colmar
     ```
   </details>
-
+  <details>
   <summary>Muizon  </summary>
 
     ```
@@ -256,6 +262,7 @@ Maison :
     51140 Muizon
     ```
   </details>
+  <details>
   <summary>Mulhouse </summary>
 
     ```
@@ -264,6 +271,7 @@ Maison :
     68200 Mulhouse
     ```
   </details>
+  <details>
   <summary>Nancy </summary>
 
     ```
@@ -273,7 +281,7 @@ Maison :
     54140 Jarville La Malgrange
     ```
   </details>
-
+  <details>
   <summary>Reims </summary>
 
     ```
@@ -282,7 +290,7 @@ Maison :
     51100 Reims
     ```
   </details>
-
+  <details>
   <summary>Strasbourg </summary>
 
     ```
@@ -291,7 +299,7 @@ Maison :
     67085 Strasbourg
     ```
   </details>
-
+  <details>
   <summary>Troyes </summary>
 
     ```
