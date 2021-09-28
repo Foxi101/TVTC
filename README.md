@@ -43,3 +43,58 @@ Maison :
     17041 La Rochelle Cedex 01
     ```
   </details>
+
+    <details>
+  <summary>Limoges</summary>
+
+    ```
+    La maison de Limoges
+    Compagnons du Devoir
+    Rue du Puy Pezard
+    87270 Couzeix
+    ```
+  </details>
+
+    <details>
+  <summary>Pau</summary>
+
+    ```
+    La maison de Pau
+    Compagnons du Devoir 
+    Allée Pierre Tourne
+    64110 Gelos
+    ```
+  </details>
+
+    <details>
+  <summary>Périgueux</summary>
+
+    ```
+    La maison de Périgueux
+    Compagnons du Devoir 
+    Allée des Sports - Chercuzac
+    24650 Chancelade
+    ```
+  </details>
+
+      <details>
+  <summary>d’Angoulême</summary>
+
+    ```
+   La maison d’Angoulême
+Compagnons du Devoir 
+35, avenue De Montbron
+16340 L’Isle-d’Espagnac
+    ```
+  </details>
+
+    <details>
+  <summary>Poitiers</summary>
+
+    ```
+   La maison de Poitiers
+Compagnons du Devoir 
+118, rue du Porteau
+86000 Poitiers
+    ```
+  </details>
