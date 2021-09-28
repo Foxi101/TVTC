@@ -77,14 +77,14 @@ Maison :
     ```
   </details>
 
-      <details>
+    <details>
   <summary>d’Angoulême</summary>
 
     ```
    La maison d’Angoulême
-Compagnons du Devoir 
-35, avenue De Montbron
-16340 L’Isle-d’Espagnac
+    Compagnons du Devoir 
+    35, avenue De Montbron
+    16340 L’Isle-d’Espagnac
     ```
   </details>
 
@@ -92,9 +92,9 @@ Compagnons du Devoir
   <summary>Poitiers</summary>
 
     ```
-   La maison de Poitiers
-Compagnons du Devoir 
-118, rue du Porteau
-86000 Poitiers
+    La maison de Poitiers
+    Compagnons du Devoir 
+    118, rue du Porteau
+    86000 Poitiers
     ```
   </details>
